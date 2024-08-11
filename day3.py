@@ -42,6 +42,15 @@ radius = 10
 area_of_circle = 3.14 * radius**2
 print("Area of Circle:" , area_of_circle )
 
+print(3 > 2)     # True, because 3 is greater than 2
+print(3 >= 2)    # True, because 3 is greater than 2
+print(3 < 2)     # False,  because 3 is greater than 2
+print(2 < 3)     # True, because 2 is less than 3
+print(2 <= 3)    # True, because 2 is less than 3
+print(3 == 2)    # False, because 3 is not equal to 2
+print(3 != 2)    # True, because 3 is not equal to 2
+
+
 
 
       

@@ -18,3 +18,8 @@ multiline_string = """I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
 That is why I created 30 days of python."""
 print(multiline_string)
+# slicing
+list = "012345689"
+print(list[1:4])
+print(list[1:8:2])
+
